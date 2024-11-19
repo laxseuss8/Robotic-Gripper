@@ -7,4 +7,5 @@ The tranfer learning models are trained. The VGG-16, InceptionV3, and GoogleNet 
 
 **The VGG-16 have shown the highest accuracy among the 3 models trained, therefore it was employed by the proponents in the project.
 **
+
 See the "Brochure" file to understand further the worked project.
