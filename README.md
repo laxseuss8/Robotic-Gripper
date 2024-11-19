@@ -5,6 +5,6 @@ The files are separated based on training transfer learning models deployed in c
 
 The tranfer learning models are trained. The VGG-16, InceptionV3, and GoogleNet were the models were chosen during training phase. The models did undergo test and validation to ensure that model is fit to the dataset. 
 
-The VGG-16 have shown the highest accuracy among the 3 models trained, therefore it was employed by the proponents in the project.
-
+**The VGG-16 have shown the highest accuracy among the 3 models trained, therefore it was employed by the proponents in the project.
+**
 See the "Brochure" file to understand further the worked project.
